@@ -1,0 +1,17 @@
+{
+    "name": "cschmitz/try-throw-catch",
+    "description": "Example of a try/throw/catch structure",
+    "authors": [
+        {
+            "name": "Christopher Schmitz",
+            "email": "schmitz.chris@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CS\\": "CS"
+        }
+    }
+}
